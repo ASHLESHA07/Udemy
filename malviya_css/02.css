@@ -1,0 +1,30 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    background-color: #71dc76;
+    box-sizing: border-box;
+}
+
+h2 {
+    font-family: 'Lobster', cursive;
+    text-decoration: none;
+    text-align: center;
+    color: #000000;
+    font-size: 60px;
+}
+
+li {
+    text-decoration: none;
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+    text-shadow: 2px 2px 2px orangered;
+    word-spacing: 6px;
+    font-family: 'Farsan', cursive;
+    overflow: hidden;
+}
+
+span {
+    color: orangered;
+    text-shadow: 2px 2px 2px #000000;
+}

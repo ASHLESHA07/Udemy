@@ -1,0 +1,25 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    background-color: #ffffff;
+    box-sizing: border-box;
+}
+
+h2 {
+    font-family: 'Abril Fatface', cursive;
+    text-decoration: none;
+    text-align: center;
+    color: #000000;
+    border: 1px solid  #d4519ecc;
+    font-size: 45px;
+}
+li {
+    text-decoration: none;
+    text-align: center;
+    font-size: 35px;
+    font-weight: bold;
+    color: #005fff;
+    word-spacing: 6px;
+    font-family: 'Great Vibes', cursive;
+    overflow: hidden;
+}
